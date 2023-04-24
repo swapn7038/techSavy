@@ -31,6 +31,9 @@ Our goal : Make India Digital
 ### Things need to work on
 
 1. Compress the all images before use
+2. Make navabr sticky
+3. blur the background image
+4. Change background image every 3 sec
 
 ### Links - Reference
 
